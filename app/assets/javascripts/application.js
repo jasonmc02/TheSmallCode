@@ -15,4 +15,8 @@
 //= require twitter/bootstrap
 //= require angular
 //= require angular-resource
+//= require app/the_small_code
+//= require_tree ./app/controllers
+//= require_tree ./app/resources
+//= require_tree ./app/routes
 //= require_tree .

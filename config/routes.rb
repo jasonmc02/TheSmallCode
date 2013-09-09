@@ -6,7 +6,7 @@ TheSmallCode::Application.routes.draw do
   resources :comments
   resources :authors
   resources :posts
-
+  resources :tasks
   #esta es la forma de hacer la ruta
   #cuando hay un modelo anidado dentro
   #de otro en un documento mongoid
